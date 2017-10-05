@@ -5,6 +5,11 @@ body {
 h1.brexitfest:before, h1.brexitfest:after {
   content: "😭🇬🇧🇪🇺😭"
 }
+a {
+  color: #039;
+  text-decoration: none;
+  border-bottom: 2px solid #039;
+}
 ul {
   margin-left: 0;
   padding-left: 0;
