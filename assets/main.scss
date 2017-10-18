@@ -5,7 +5,7 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
-.post-meta time {
+.post time {
   font-family: 'Roboto Mono', monospace;
 }
 .site-header .site-title {
@@ -62,4 +62,22 @@ body {
 }
 main {
   background: #fff;
+}
+
+.questions {
+  margin: 1em 0;
+}
+.questions a {
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: #aaa 1px 1px 1px, #999 1px -1px 1px, #888 -1px 1px 1px, #999 -1px -1px 1px;
+  padding: 0.5em;
+  margin: 1em 1em 1em 0;
+  color: #fff;
+  background: #000;
+  display: inline-block;
+}
+.questions a:hover {
+  color: #000;
+  background: #aaa;
+  text-decoration: none;
 }
