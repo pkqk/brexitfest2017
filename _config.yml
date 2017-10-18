@@ -43,3 +43,7 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - docker-compose.yml
+  - CNAME
+  - README.md
