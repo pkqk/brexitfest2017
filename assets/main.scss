@@ -1,0 +1,65 @@
+---
+# override styles
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+.post-meta time {
+  font-family: 'Roboto Mono', monospace;
+}
+.site-header .site-title {
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: #aaa 1px 1px 1px, #999 1px -1px 1px, #888 -1px 1px 1px, #999 -1px -1px 1px;
+  padding: 0 0.25em;
+  margin: 1em;
+  color: #fff;
+  background: #000;
+}
+.site-header {
+  border: none;
+  padding-top: 1em;
+  background: linear-gradient(to right,
+    #eee 0%,
+    #eee 14.28%,
+    #ee0 14.28%,
+    #ee0 28.57%,
+    #0ee 28.57%,
+    #0ee 42.85%,
+    #0e0 42.85%,
+    #0e0 57.14%,
+    #e0e 57.14%,
+    #e0e 71.42%,
+    #e00 71.42%,
+    #e00 85.71%,
+    #00e 85.71%,
+    #00e 100%
+  );
+}
+.site-header:after {
+  content: ".";
+  display: block;
+  background: linear-gradient(to right,
+    #00e 0%,
+    #00e 14.28%,
+    #000 14.28%,
+    #000 28.57%,
+    #e0e 28.57%,
+    #e0e 42.85%,
+    #000 42.85%,
+    #000 57.14%,
+    #0ee 57.14%,
+    #0ee 71.42%,
+    #000 71.42%,
+    #000 85.71%,
+    #eee 85.71%,
+    #eee 100%
+  );
+}
+
+body {
+  background: #eee;
+}
+main {
+  background: #fff;
+}
