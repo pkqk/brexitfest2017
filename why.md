@@ -4,7 +4,11 @@ title: Why?
 permalink: /why
 ---
 
-Various reasons, some personal, some related to the fact that I no longer feel like Britain is my home.
+I've been wanting to move back for a while but I was always planning to get a passport first so that I would be able to live and work in 🇪🇺 in the future.
+
+Sadly now that a 🇬🇧 passport is going to be blue and also worthless it's not really worth spending the £2000 on it.
+
+While I like London and love living here with the friends I've made, the UK has never really felt welcoming and now is feeling even less like a place I could call home.
 
 ## What am I going to do?
 
