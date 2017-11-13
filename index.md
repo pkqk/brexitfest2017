@@ -13,8 +13,6 @@ out with all the lovely awesome people I've met here before I go.
   <a href="/when">When?</a>
 </div>
 
-Help find a replacement for my house by sharing [my spareroom ad][room].
-
 If there is something you think I should do before I go add it to [this bucket list][bucketlist].
 
 [bucketlist]: https://goo.gl/forms/ofpIHGRXkorHRl8A2
