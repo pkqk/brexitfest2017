@@ -4,7 +4,7 @@ title: When?
 permalink: /when
 ---
 
-I leave at <time>2017-11-27 23:35</time> on Thai Airways flight [TG917][outbound] to Bangkok from Heathrow.
+I leave at <time>2017-11-27 21:35</time> on Thai Airways flight [TG917][outbound] to Bangkok from Heathrow.
 
 Then most importantly at <time>2017-11-29 18:00</time> I shall eat some things at [Gaggan][gaggan] see [Season 2 episode 6 of Chef’s Table][netflix].
 
